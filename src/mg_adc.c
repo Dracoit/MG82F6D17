@@ -1,0 +1,1 @@
+// mg_adc.c placeholder

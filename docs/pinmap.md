@@ -1,0 +1,1 @@
+Pinmap docs placeholder.

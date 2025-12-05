@@ -1,0 +1,1 @@
+// mg_spi_soft.c placeholder

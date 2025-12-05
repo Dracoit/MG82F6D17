@@ -1,0 +1,1 @@
+// mg_uart.h placeholder

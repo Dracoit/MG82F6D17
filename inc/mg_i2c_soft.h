@@ -1,0 +1,1 @@
+// mg_i2c_soft.h placeholder

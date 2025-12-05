@@ -1,0 +1,1 @@
+// mg_timer.h placeholder
