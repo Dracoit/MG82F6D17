@@ -40,6 +40,18 @@ See the *examples/* folder:
 - I2C sensor example (MPU6050)
 - SPI example (MAX6675)
 
+##  Low component evaluation Board
+    Kicad project will  uploaded soon. sample board images:\
+<img width="807" height="611" alt="image" src="https://github.com/user-attachments/assets/7bda897f-7aa8-432f-8719-b98e8a629eb4" />
+
+<img width="721" height="530" alt="image" src="https://github.com/user-attachments/assets/516ed1f3-c628-4a15-bb13-6c14b7cb4692" />
+
+<img width="636" height="606" alt="image" src="https://github.com/user-attachments/assets/e034d91f-7d14-483b-b211-24d1cd9af718" />
+
+
+
+
+
 
 ## 🚀 Getting Started
 1. Add the `inc/` folder to your Keil include path.
@@ -51,6 +63,9 @@ See the *examples/* folder:
     mg_timer_init();
     mg_uart_init(9600);
     mg_adc_init();
+
+
+
 License
 
 MIT License — free to use, modify, and distribute.
